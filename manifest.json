@@ -1,0 +1,10 @@
+{
+	"id": "accent-letters",
+	"name": "Accent Letters",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Insert any of 682 accented letters from a searchable picker, and strip the accents from selected text.",
+	"author": "Accent Letters",
+	"authorUrl": "https://accentletters.wiki/",
+	"isDesktopOnly": false
+}

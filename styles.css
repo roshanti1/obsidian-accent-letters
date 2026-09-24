@@ -1,0 +1,5 @@
+.accent-letters-row { display: flex; align-items: center; gap: var(--size-4-3); }
+.accent-letters-glyph { font-size: 1.5em; line-height: 1; min-width: 1.6em; text-align: center; }
+.accent-letters-text { display: flex; flex-direction: column; }
+.accent-letters-name { line-height: 1.3; }
+.accent-letters-code { font-size: var(--font-smallest); color: var(--text-muted); }

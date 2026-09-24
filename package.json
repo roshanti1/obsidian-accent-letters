@@ -1,0 +1,19 @@
+{
+  "name": "obsidian-accent-letters",
+  "version": "1.0.0",
+  "description": "Insert accented letters and strip accents, inside Obsidian.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "keywords": ["obsidian", "accents", "diacritics", "unicode"],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "builtin-modules": "^5.0.0",
+    "esbuild": "0.25.5",
+    "obsidian": "latest",
+    "typescript": "^5.8.2"
+  }
+}
