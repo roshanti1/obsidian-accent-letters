@@ -1,6 +1,6 @@
 {
   "name": "obsidian-accent-letters",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Insert accented letters and strip accents, inside Obsidian.",
   "main": "main.js",
   "scripts": {
